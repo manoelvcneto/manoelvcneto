@@ -7,7 +7,7 @@ Currently working on projects involving:
 
 - 🌐 **Website and web app development**
 - 🤖 **Business automation** with APIs and workflows
-- 📱 **Mobile app prototyping** with FlutterFlow & Lovable
+- 📱 **Mobile app prototyping** with FlutterFlow
 - ⚡ **SaaS products** using modern stacks like Supabase and React
 
 ---
